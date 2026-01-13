@@ -1,3 +1,3 @@
 # Java DSA Practice
- This repository contains my daily practice of Data Structures and Algorithms using Java
- YOLO test - merged without review
+ Daily practice of Data Structures & Algorithms in Java.
+ Focused on clean code, problem-solving, and interview preperation.
