@@ -1,0 +1,13 @@
+class Solution {
+    public int numIdenticalPairs(int[] nums) {
+        int[] freq=new int[101];
+        int goodpairs=0;
+        for(int x:nums){
+            goodpairs+=freq[x];
+            freq[x]++;
+
+        }
+        return goodpairs;
+        
+    }
+}
